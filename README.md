@@ -1,6 +1,6 @@
 # masterclass_bloc
 
-A new Flutter project.
+A Example infinite_list with bloc
 
 ## Getting Started
 
